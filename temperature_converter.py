@@ -1,4 +1,4 @@
-#author__thea_uy
+#author__uy_thea
 #date__September_25_2024
 #this program will convert temperature from Celcius to Fahrenheit
 
